@@ -1,0 +1,64 @@
+.cCentro {
+  text-align: center
+}
+
+.cTitulo {
+  font-family: "Courier New"
+}
+
+.cText{
+  font-family: "Verdana"
+}
+
+.cItalic {
+  opacity: 0.8;
+  font-style: italic;
+}
+
+#p1 {
+  text-align: justify;
+  text-justify: inter-word;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 50%;
+  padding: 5px;
+}
+
+#p2 {
+  background-color: black;
+  background-size: ;
+  color: white;
+}
+
+.cBox {
+  float: left;
+  background-color: white;
+  width: 200px;
+  padding: 20px;
+  margin: 20px;
+}
+
+#pbox {
+  color: black;
+  font-family: "Verdana"
+  text-align: left;
+}
+
+#pbox2 {
+  height: 220px;
+}
+
+#pSmall {
+  font-size: 13px;
+}
